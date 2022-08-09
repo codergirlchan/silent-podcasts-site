@@ -3,10 +3,9 @@
     <div class="content-wrapper">
       <img
         class="logo"
-        src="../assets/sp-logo.png"
+        src="../assets/sp-logo-long.png"
         alt="silent podcasts logo"
       />
-      <h1>We're anything but Silent</h1>
     </div>
   </nav>
 </template>
@@ -18,16 +17,10 @@
   justify-content: center;
   flex-wrap: wrap;
   text-align: center;
-  padding: 10px;
+  padding: 20px 0;
 }
 
 .logo {
-  width: 100px;
-}
-
-h1 {
-  width: 100%;
-  text-transform: uppercase;
-  font-family: impact;
+  width: 200px;
 }
 </style>
